@@ -1,5 +1,5 @@
 Hi,Myself Nitin Shelke.
-I am working at Clover infotech Mumbai as a technical consultant for YES Bank since August 2020.
-I am a aspiring data science enthusiast.
+I am working at Tata technologies Mumbai as a Data scientit since March 2022.
 
-I am workiing on various ML projects. You can go through the work i have done. Hope this will be helpful for you.
+I have worked on various ML use cases like regression, classification, time series forecasting, Nlp.
+Please check out my repositories for the details.
