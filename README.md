@@ -1,5 +1,16 @@
 Hi,Myself Nitin Shelke.
-I am working at Tata technologies Mumbai as a Data scientit since March 2022.
+Experience: 5 + years
 
-I have worked on various ML use cases like regression, classification, time series forecasting, Nlp.
-Please check out my repositories for the details.
+Interest and woring experience:
+    ----Machine learning
+    ----Deep learning
+    ----NLP
+    ----compuer vision
+    ----time series forecasting
+    ----recommendation system
+    ----AWS clound
+
+Hobbies:
+    ----learning and stay updated with technology trends.
+    ---- reading books
+    ----- stay healthy 
